@@ -1,0 +1,5 @@
+redti-reservations.asd
+dependencies/jsown/jsown.asd
+dependencies/cl-fuseki/cl-fuseki.asd
+dependencies/jsown/tests/jsown-tests.asd
+dependencies/mu-cl-support/mu-support.asd

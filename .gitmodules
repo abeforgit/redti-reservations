@@ -1,0 +1,9 @@
+[submodule "dependencies/mu-cl-support"]
+	path = dependencies/mu-cl-support
+	url = https://github.com/mu-semtech/mu-cl-support
+[submodule "dependencies/cl-fuseki"]
+	path = dependencies/cl-fuseki
+	url = git@github.com:madnificent/cl-fuseki.git
+[submodule "dependencies/jsown"]
+	path = dependencies/jsown
+	url = git@github.com:madnificent/jsown.git

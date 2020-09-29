@@ -3,5 +3,6 @@
   :depends-on(mu-support)
   :components (
                (:file "packages")
+               (:file "redti-reservations")
                )
   )
