@@ -1,4 +1,4 @@
 (defpackage :redti-reservations
-  (:use :cl :mu-support)
+  (:use :cl)
   (:export #:boot)
   )
